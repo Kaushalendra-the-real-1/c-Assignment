@@ -1,0 +1,6 @@
+StudentId,Amount To Pay,Fees Collected, Date Paid,Bus Pickup Point,Bus Number,Bus DriverId
+1,2500,1500,10/7/2001,Kalyanpur,1,2021
+2,2500,1000,7/7/2001,Kalyanpur,1,2021
+3,2500,2500,8/7/2001,Kalyanpur,1,2021
+4,2500,1500,5/7/2001,Kalyanpur,1,2021
+5,2500,1700,12/7/2001,Kalyanpur,1,2021

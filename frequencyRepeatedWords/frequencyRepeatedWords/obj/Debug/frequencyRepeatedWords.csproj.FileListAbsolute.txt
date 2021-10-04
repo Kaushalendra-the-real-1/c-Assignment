@@ -1,0 +1,7 @@
+D:\C#\frequencyRepeatedWords\frequencyRepeatedWords\bin\Debug\frequencyRepeatedWords.exe.config
+D:\C#\frequencyRepeatedWords\frequencyRepeatedWords\bin\Debug\frequencyRepeatedWords.exe
+D:\C#\frequencyRepeatedWords\frequencyRepeatedWords\bin\Debug\frequencyRepeatedWords.pdb
+D:\C#\frequencyRepeatedWords\frequencyRepeatedWords\obj\Debug\frequencyRepeatedWords.csproj.AssemblyReference.cache
+D:\C#\frequencyRepeatedWords\frequencyRepeatedWords\obj\Debug\frequencyRepeatedWords.csproj.CoreCompileInputs.cache
+D:\C#\frequencyRepeatedWords\frequencyRepeatedWords\obj\Debug\frequencyRepeatedWords.exe
+D:\C#\frequencyRepeatedWords\frequencyRepeatedWords\obj\Debug\frequencyRepeatedWords.pdb

@@ -1,0 +1,7 @@
+D:\C#\DOB\DOB\obj\Debug\DOB.csproj.AssemblyReference.cache
+D:\C#\DOB\DOB\obj\Debug\DOB.csproj.CoreCompileInputs.cache
+D:\C#\DOB\DOB\bin\Debug\DOB.exe.config
+D:\C#\DOB\DOB\bin\Debug\DOB.exe
+D:\C#\DOB\DOB\bin\Debug\DOB.pdb
+D:\C#\DOB\DOB\obj\Debug\DOB.exe
+D:\C#\DOB\DOB\obj\Debug\DOB.pdb

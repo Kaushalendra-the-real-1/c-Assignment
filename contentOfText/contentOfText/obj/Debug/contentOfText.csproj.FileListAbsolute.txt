@@ -1,0 +1,7 @@
+D:\C#\contentOfText\contentOfText\bin\Debug\contentOfText.exe.config
+D:\C#\contentOfText\contentOfText\bin\Debug\contentOfText.exe
+D:\C#\contentOfText\contentOfText\bin\Debug\contentOfText.pdb
+D:\C#\contentOfText\contentOfText\obj\Debug\contentOfText.csproj.CoreCompileInputs.cache
+D:\C#\contentOfText\contentOfText\obj\Debug\contentOfText.exe
+D:\C#\contentOfText\contentOfText\obj\Debug\contentOfText.pdb
+D:\C#\contentOfText\contentOfText\obj\Debug\contentOfText.csproj.AssemblyReference.cache

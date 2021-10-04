@@ -1,0 +1,7 @@
+D:\C#\intToFlotCsv\intToFlotCsv\bin\Debug\intToFlotCsv.exe.config
+D:\C#\intToFlotCsv\intToFlotCsv\bin\Debug\intToFlotCsv.exe
+D:\C#\intToFlotCsv\intToFlotCsv\bin\Debug\intToFlotCsv.pdb
+D:\C#\intToFlotCsv\intToFlotCsv\obj\Debug\intToFlotCsv.csproj.AssemblyReference.cache
+D:\C#\intToFlotCsv\intToFlotCsv\obj\Debug\intToFlotCsv.csproj.CoreCompileInputs.cache
+D:\C#\intToFlotCsv\intToFlotCsv\obj\Debug\intToFlotCsv.exe
+D:\C#\intToFlotCsv\intToFlotCsv\obj\Debug\intToFlotCsv.pdb

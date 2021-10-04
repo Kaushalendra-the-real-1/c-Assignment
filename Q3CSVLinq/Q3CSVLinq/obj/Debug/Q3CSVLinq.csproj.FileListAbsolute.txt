@@ -1,0 +1,7 @@
+D:\C#\Q3CSVLinq\Q3CSVLinq\bin\Debug\Q3CSVLinq.exe.config
+D:\C#\Q3CSVLinq\Q3CSVLinq\bin\Debug\Q3CSVLinq.exe
+D:\C#\Q3CSVLinq\Q3CSVLinq\bin\Debug\Q3CSVLinq.pdb
+D:\C#\Q3CSVLinq\Q3CSVLinq\obj\Debug\Q3CSVLinq.csproj.AssemblyReference.cache
+D:\C#\Q3CSVLinq\Q3CSVLinq\obj\Debug\Q3CSVLinq.csproj.CoreCompileInputs.cache
+D:\C#\Q3CSVLinq\Q3CSVLinq\obj\Debug\Q3CSVLinq.exe
+D:\C#\Q3CSVLinq\Q3CSVLinq\obj\Debug\Q3CSVLinq.pdb

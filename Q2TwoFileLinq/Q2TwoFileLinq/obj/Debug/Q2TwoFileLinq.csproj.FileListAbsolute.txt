@@ -1,0 +1,7 @@
+D:\C#\Q2TwoFileLinq\Q2TwoFileLinq\bin\Debug\Q2TwoFileLinq.exe.config
+D:\C#\Q2TwoFileLinq\Q2TwoFileLinq\bin\Debug\Q2TwoFileLinq.exe
+D:\C#\Q2TwoFileLinq\Q2TwoFileLinq\bin\Debug\Q2TwoFileLinq.pdb
+D:\C#\Q2TwoFileLinq\Q2TwoFileLinq\obj\Debug\Q2TwoFileLinq.csproj.AssemblyReference.cache
+D:\C#\Q2TwoFileLinq\Q2TwoFileLinq\obj\Debug\Q2TwoFileLinq.csproj.CoreCompileInputs.cache
+D:\C#\Q2TwoFileLinq\Q2TwoFileLinq\obj\Debug\Q2TwoFileLinq.exe
+D:\C#\Q2TwoFileLinq\Q2TwoFileLinq\obj\Debug\Q2TwoFileLinq.pdb

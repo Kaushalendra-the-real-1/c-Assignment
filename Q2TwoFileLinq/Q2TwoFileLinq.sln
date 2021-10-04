@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q2TwoFileLinq", "Q2TwoFileLinq\Q2TwoFileLinq.csproj", "{E9A51AE3-60B9-41D6-8340-51AAA37CB15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A51AE3-60B9-41D6-8340-51AAA37CB15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A51AE3-60B9-41D6-8340-51AAA37CB15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A51AE3-60B9-41D6-8340-51AAA37CB15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A51AE3-60B9-41D6-8340-51AAA37CB15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DFBE77-8E37-4506-88F2-3B59E9BB5C4A}
+	EndGlobalSection
+EndGlobal
